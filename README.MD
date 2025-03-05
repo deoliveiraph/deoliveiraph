@@ -1,6 +1,7 @@
 # Olá, sou Pedro Henrique 👋
 
-👨‍💻 **Desenvolvedor de Software** | 🚗 **Apaixonado por carros** |  
+👨‍💻 **Desenvolvedor de Software** 
+| 🚗 **Apaixonado por carros** |  
 🔭 Trabalhando em projetos de **Node.js** e **Java**  
 🌱 Atualmente estudando **Engenharia de Software** na **PUCRS**  
 💬 Você pode me encontrar nas redes sociais:
