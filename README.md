@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1>
+<h1 align="center">Hello, I'm Pedro Henrique! </h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na PUCRS, apaixonado por tecnologia e desenvolvimento de software. Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias para criar soluções inovadoras. 🚀
+  Software Engineering student at PUCRS.
 </p>
 
 ---
@@ -36,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="PyCharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="50" alt="WebStorm logo" />
 </div>
 
 
