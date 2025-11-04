@@ -15,11 +15,11 @@
 
  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
  
 
-### 💻 Languages
+###  Languages
 
 <p>
 
@@ -29,7 +29,7 @@
 
  
 
-### 🚀 Frameworks & Runtime
+###  Frameworks & Runtime
 
 <p>
 
@@ -39,7 +39,7 @@
 
  
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p>
 
@@ -49,7 +49,7 @@
 
  
 
-### 🗄️ Databases
+###  Databases
 
 <p>
 
@@ -77,7 +77,7 @@
 
  
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
  
 
@@ -95,7 +95,7 @@
 
  
 
-### 📫 Connect with me
+###  Connect with me
 
  
 
