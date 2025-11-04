@@ -15,8 +15,20 @@
 </p>
 
 ### 🚀 Frameworks & Runtime
+
+#### Java Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Java Frameworks" />
+</p>
+
+#### Python Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" alt="Python Frameworks" />
+</p>
+
+#### JavaScript/Node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -25,8 +37,15 @@
 </p>
 
 ### 🗄️ Databases
+
+#### SQL
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="SQL Databases" />
+</p>
+
+#### NoSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" alt="NoSQL Databases" />
 </p>
 
 ### 🔧 IDEs & Tools
