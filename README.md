@@ -1,47 +1,108 @@
-<h1 align="center">Hello, I'm Pedro Henrique! </h1>
+<div align="center">
 
-<p align="center">
-  Software Engineering student at PUCRS.
+ 
+
+#  Hello, I'm Pedro Henrique!
+
+ 
+
+###  Software Engineering Student at PUCRS
+
+
+ 
+
+---
+
+ 
+
+## 🛠️ Tech Stack
+
+ 
+
+### 💻 Languages
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Languages" />
+
 </p>
 
----
+ 
 
-<h2 align="center">I code with:</h2>
+### 🚀 Frameworks & Runtime
 
-###
+<p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="Frameworks" />
 
----
+</p>
 
-<h2 align="center">Some Features That I Use:</h2>
+ 
 
-###
+### ☁️ Cloud & DevOps
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git logo" />
+<p>
+
+  <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud & DevOps" />
+
+</p>
+
+ 
+
+### 🗄️ Databases
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
+
+</p>
+
+ 
+
+### 🔧 IDEs & Tools
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" alt="IDEs" />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="PyCharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker logo" />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="50" alt="DataGrip logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50" alt="Maven logo" />
+
+</p>
+
+ 
+
+---
+
+ 
+
+## 📊 GitHub Stats
+
+ 
+
+<p>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deoliveiraph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoliveiraph&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</p>
+
+ 
+
+---
+
+ 
+
+### 📫 Connect with me
+
+ 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p_eagaa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deoliveiraph)
+
+ 
+
 </div>
-
-
