@@ -59,7 +59,7 @@
 
  
 
-### 🔧 IDEs & Tools
+###  IDEs & Tools
 
 <p>
 
